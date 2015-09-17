@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-rabbitmq",
+  "version": "0.0.1",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "easy-amqp": "^0.1.3",
+    "winston": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vincent Chalamon <vincentchalamon@gmail.com>",
+  "license": "MIT"
+}
